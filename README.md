@@ -1,2 +1,2 @@
-# ![SQL](https://github.com/EvelynOr/SQL/assets/82233779/527bfad4-76e6-4e07-a64e-a1b6208d09d2)
-SQL
+# SQL ![SQL (2)](https://github.com/EvelynOr/SQL/assets/82233779/49e8c537-8c7e-49c5-9348-0ba1d8eec205)
+
