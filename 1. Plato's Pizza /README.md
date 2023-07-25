@@ -6,4 +6,4 @@
 
 - Nivel: basico
 
-- [Proyecto Completo](https://github.com/EvelynOr/4.Portafolio/tree/main/Pizza%20Challenge)
+- Forma parte del [Proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/Pizza%20Challenge) realizado en el proceso de aprendizaje de varias herramienta de análisis de datos
