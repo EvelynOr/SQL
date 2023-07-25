@@ -6,4 +6,5 @@
 
 - Nivel: basico
 
-Forma parte del proceso de aprendizaje de  varias herramienta de análisis de datos. [Proyecto](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/6.AnalisisDatos.sql)
+Forma parte del proceso de aprendizaje de  varias herramienta de análisis de datos. 
+[Proyecto](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/6.AnalisisDatos.sql)
