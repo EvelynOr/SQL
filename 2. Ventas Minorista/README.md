@@ -1,6 +1,6 @@
 ### 🧾💶 Análisis de datos de ventas minoristas
 
-El proyecto se realizó con base a 25 preguntas que guiaron el analisis.
+El proyecto se realizó con base a 28 preguntas que guiaron el analisis.
 
 #### Procedimiento General
 + Importar las cinco tablas
