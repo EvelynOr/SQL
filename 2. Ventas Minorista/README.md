@@ -15,4 +15,8 @@ El proyecto se realizó con base a 25 preguntas que guiaron el analisis.
 1. Total de columnas
 2. Total de fila
 3. Verificar nulos
-+ Análisis 
++ Análisis
+  1.  AREA NOMINAL (ingresos o ventas)
+  2.  AREA REAL (producto)
+  3.  POR TIENDA
+  4.  RECURSO HUMANO - POR ADMINISTRADOR
