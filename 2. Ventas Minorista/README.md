@@ -12,6 +12,6 @@ El proyecto se realizó con base a 25 preguntas que guiaron el analisis.
 
 #### Proyecto
 + Revision de la tabla generada:
->  Total de columnas
++ >  Total de columnas
 >   Total de fila
 >   Verificar nulos  
