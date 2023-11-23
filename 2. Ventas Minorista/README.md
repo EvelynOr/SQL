@@ -1,3 +1,5 @@
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
 ### 🧾💶 Análisis de datos de ventas minoristas
 
 El proyecto se realizó con base a 28 preguntas que guiaron el analisis.
