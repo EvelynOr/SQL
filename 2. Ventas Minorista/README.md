@@ -1,7 +1,11 @@
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 ### 🧾💶 Análisis de datos de ventas minoristas
-
++ Análisis de datos de las ventas minoristas por tienda y distrito
++ Objetivo: Analizar el desempeño de la empresa
++ Nivel: básico-intermedio
++ Proyecto en [Power BI](https://github.com/EvelynOr/4.Portafolio/tree/main/3.%20Ventas%20Minorista)
+  
 El proyecto se realizó con base a 28 preguntas que guiaron el analisis.
 
 #### Procedimiento General
@@ -18,8 +22,8 @@ El proyecto se realizó con base a 28 preguntas que guiaron el analisis.
 2. Total de fila
 3. Verificar nulos
    
-+ Análisis
-1.  AREA NOMINAL (ingresos o ventas), 9 ítems
+#### Análisis
+##### 1.  AREA NOMINAL (ingresos o ventas), 9 ítems
 2.  AREA REAL (producto), 9 ítems
 3.  POR TIENDA, 6 ítems 
 4.  RECURSO HUMANO - POR ADMINISTRADOR, 4 ítems
