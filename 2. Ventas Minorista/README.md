@@ -9,7 +9,7 @@ El proyecto se realizó con base a 28 preguntas que guiaron el analisis.
 
 #### Procedimiento General
 + Importar las cinco tablas
-+ Analisis de la data
++ Análisis de la data
 + Ubicación de columnas clave entre tablas
 + Selección de variables para el análisis
 + Unión de las tablas
