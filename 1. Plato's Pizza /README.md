@@ -8,6 +8,6 @@
 
 Forma parte del proceso de aprendizaje de  varias herramienta de análisis de datos. 
 
-+ [Proyecto en SQL Server ](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/6.AnalisisDatos.sql)
++ Analisis de Datos en [SQL Server](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/AnalisisDatos.sql)
 
 + [Proyecto PPT](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/7.%20SQLServer_PlatosPizza.pdf)
