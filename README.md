@@ -1,7 +1,7 @@
 # SQL
 
-+ Plato's Pizza. [Proyecto](https://github.com/EvelynOr/SQL/tree/main/Plato's%20Pizza%20) 
++ Plato's Pizza 
 
 + Ventas Minoristas: Analisis de Datos 
 
-+ International_Debt: Revision y Limpieza de datos
++ International_Debt: Revisión y Limpieza de datos
