@@ -1,4 +1,4 @@
-Revision de la data "International Debt Statistics (IDS) del Banco Mundial"
+Revisión de la data "International Debt Statistics (IDS) del Banco Mundial"
 
 Forma parte del [proyecto](https://github.com/EvelynOr/4.Portafolio/tree/main/No_Empresarial/International_Debt) del análisis del indicador DT.DOD.DLXF.CD.
 
