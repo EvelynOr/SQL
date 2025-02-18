@@ -9,4 +9,4 @@
 
 + Desrrrollo de base de datos para la administración de la información
   
-+ [Proyecto PPT](https://github.com/EvelynOr/4.Portafolio/blob/main/Pizza%20Challenge/7.%20SQLServer_PlatosPizza.pdf)
++ Proyecto PPT
