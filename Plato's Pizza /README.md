@@ -9,7 +9,6 @@
 + En SQL Server
 + Presentacion del Proyecto PPT
 + Proyecto [General](https://github.com/EvelynOr/4.Portafolio/tree/main/Empresarial/Pizza%20Challenge)
-
-##### Desrrrollo de base de datos para la administración de la información
++ Desrrrollo base de datos para la administración de la información
   
 
