@@ -5,7 +5,7 @@
 + Objetivo: Mejorar las operaciones del restaurante en 2016
 
 
-+ Analisis de Datos en [SQL Server](https://github.com/EvelynOr/4.Portafolio/blob/main/Empresarial/Pizza%20Challenge/AnalisisDatos.sql)
++ Analisis de Datos en SQL Server
 
 + Desrrrollo de base de datos para la administración de la información
   
