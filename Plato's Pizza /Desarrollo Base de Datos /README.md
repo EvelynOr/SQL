@@ -33,3 +33,16 @@ Mejoras Propuestas:
  
 Tabla 2: orders
 Columnas: order_id, date, time.
+
+#
+
+### 2. Tablas Adicionales
+Tabla: ingredients
+Columnas: ingredient_code, ingredient
+
+Claves:
+ingredient_code es la clave primaria.
+
+Sin Claves Foráneas directamente, pero será referenciada por la tabla pizza_ingredients.
+
+
