@@ -7,6 +7,7 @@ Desarrollar una propuesta de base de datos para la gestión de la información d
 
 #### Contenido 
 
+#
 
 ### 1. Descripción, Evaluación  y Propuesta de Mejoras de Tablas Existente 
 Tabla 1: order_details   
@@ -29,5 +30,6 @@ Mejoras Propuestas:
 •  Asegurarse de que order_id y pizza_id tengan restricciones de claves foráneas adecuadas para mantener la integridad referencial.
 
 •  Verificar que quantity sea de tipo numérico, preferiblemente INTEGER.
-
-
+ 
+Tabla 2: orders
+Columnas: order_id, date, time.
