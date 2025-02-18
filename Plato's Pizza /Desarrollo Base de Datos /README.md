@@ -10,7 +10,7 @@ Desarrollar una propuesta de base de datos para la gestión de la información d
 #
 
 ### 1. Descripción, Evaluación  y Propuesta de Mejoras de Tablas Existente 
-Tabla 1: order_details   
+##### Tabla 1: order_details   
 Columnas: order_details_id, order_id, pizza_id, quantity.
 
 Revisión:
@@ -31,7 +31,8 @@ Mejoras Propuestas:
 
 •  Verificar que quantity sea de tipo numérico, preferiblemente INTEGER.
  
-Tabla 2: orders
+##### Tabla 2: orders
+
 Columnas: order_id, date, time.
 
 #
@@ -41,8 +42,20 @@ Tabla: ingredients
 Columnas: ingredient_code, ingredient
 
 Claves:
+
 ingredient_code es la clave primaria.
 
 Sin Claves Foráneas directamente, pero será referenciada por la tabla pizza_ingredients.
 
+
+Tabla: pizza_ingredients
+Columnas: pizza_id, ingredient, ingredient_code
+
+Claves:
+
+•  La clave primaria compuesta estará formada por pizza_id y ingredient_code.
+
+•  pizza_id será una clave foránea que referencia la tabla pizzas.
+
+•  ingredient_code será una clave foránea que referencia la tabla ingredients.
 
