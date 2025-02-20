@@ -30,11 +30,12 @@ Mejoras:
  
 ###### Tabla 2: orders
 LLeva el control de las ordenes por fecha y por hora. 
+
 Columnas: order_id, date, time.
 
 Revisión:
 
-•	clave primaria: order_id parece
+•	clave primaria: order_id
 
 •  date y time están separadas.
 
@@ -43,6 +44,7 @@ No Mejoras
 
 ###### Tabla 3: pizza_types
 Contiene el catálogo del tipo de pizzas que ofrece el restaurant. 
+
 Columnas: pizza_type_id, name, category, ingredients.
 
 Revisión:
@@ -56,6 +58,7 @@ Mejoras:
 
 ###### Tabla 4: pizzas
 Tiene el catálogo de los tamaños de cada pizza que se ofrece.
+
 Columnas: pizza_id, pizza_type_id, size, price.
 
 Revisión:
@@ -77,6 +80,7 @@ Mejoras:
 ### 2. Tablas propuestas para la mejora en la gestión de los datos (Tablas Adicionales) 
 ###### Tabla: ingredients
 Contiene el catálogo  de los ingredientes que lleva cada pizza.
+
 Columnas: ingredient_id, ingredient_name
 
 Claves:
@@ -88,7 +92,8 @@ Claves:
 
 
 ###### Tabla: pizza_ingredients
-Lleva el registro de los ingredientes que lleva cada pizza.
+Lleva el registro de los ingredientes y cantidad de ingrediente que lleva cada pizza.
+
 Columnas: pizza_id, ingredient_id, ingredient_quantity
 
 Claves:
