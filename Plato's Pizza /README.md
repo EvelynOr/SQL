@@ -7,7 +7,7 @@
 ##### Análisis de datos
 + En SQL Server
 + Presentacion del Proyecto PPT
-+ Desarrollo base de datos
++ Desarrollo Base de Datos
 
    
 ##### Proyecto [General](https://github.com/EvelynOr/4.Portafolio/tree/main/Empresarial/Pizza%20Challenge)
